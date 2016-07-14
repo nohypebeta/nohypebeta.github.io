@@ -27,14 +27,3 @@ panel > fieldset > div, a, p {
 	margin-left: auto;
 	margin-right: auto;
 }
-
-img {
-	height: 8%;
-}
-
-#contact {
-	display: inline-block;
-	-webkit-margin-before: 0;
-    -webkit-margin-after: 0;
-    transform: translate(5%,0%);
-}
