@@ -36,5 +36,5 @@ img {
 	display: inline-block;
 	-webkit-margin-before: 0;
     -webkit-margin-after: 0;
-    transform: translate(5%,-60%);
+    transform: translate(5%,0%);
 }
