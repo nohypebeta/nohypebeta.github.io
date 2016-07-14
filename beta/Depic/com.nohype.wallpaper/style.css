@@ -7,9 +7,10 @@ html, body {
 	background-color: #BDFCC9;
 	font-family: nexa;
 	background-image: url(download.png);
-    background-repeat: no-repeat;
-    background-position-x: center;
-    background-repeat-y: inherit;
+    	background-repeat: no-repeat;
+    	background-position-x: center;
+    	background-repeat-y: inherit;
+    	height: 100%;
 }
 
 panel > fieldset {
