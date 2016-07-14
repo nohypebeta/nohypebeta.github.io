@@ -10,7 +10,7 @@ SHA1: 6b571584b96cca64707a6c273d6f2c6e21747032
 Section: Themes (Zeppelin)
 Description: NoHypeApparel Zeppelin Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
-Depiction: https://nohype.github.io/beta/Depic/com.nohype.zeplogo/index.html
+Depiction: https://nohypebeta.github.io/beta/Depic/com.nohype.zeplogo/index.html
 Name: NoHypeApparel Zeppelin Logo
 
 Package: com.nohype.respring
@@ -24,7 +24,7 @@ SHA1: 721963324d37b696a7d616ab6d62851ef5f57b6f
 Section: Themes
 Description: NoHypeApparel Respring Logo
 Author: Ryan Baldwin <passingintime@gmail.com>
-Depiction: https://nohype.github.io/beta/Depic/com.nohype.respring/index.html
+Depiction: https://nohypebeta.github.io/beta/Depic/com.nohype.respring/index.html
 Name: NoHypeApparel Respring Logo
 
 Package: com.nohype.wallpaper
@@ -38,7 +38,7 @@ SHA1: 796b7453bc751c1136f04e36fbc530f9d6f58a44
 Section: Themes
 Description: NoHypeApparel Wallpaper
 Author: Ryan Baldwin <passingintime@gmail.com>
-Depiction: https://nohype.github.io/beta/Depic/com.nohype.wallpaper/index.html
+Depiction: https://nohypebeta.github.io/beta/Depic/com.nohype.wallpaper/index.html
 Name: NoHypeApparel Wallpaper
 
 Package: com.nohype.lockglyph
@@ -53,5 +53,5 @@ SHA1: efece59caa07a4710550314ea30a4b7894d0bf0f
 Section: Themes (LockGlyph)
 Description: NoHypeApparel LockGlyph
 Author: Ryan Baldwin <passingintime@gmail.com>
-Depiction: https://nohype.github.io/beta/Depic/com.nohype.lockglyph/index.html
+Depiction: https://nohypebeta.github.io/beta/Depic/com.nohype.lockglyph/index.html
 Name: NoHypeApparel LockGlyph
