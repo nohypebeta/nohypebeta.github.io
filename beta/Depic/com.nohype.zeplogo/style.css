@@ -1,0 +1,40 @@
+@font-face {
+	font-family: nexa;
+	src: url(nexalight.otf);
+}
+
+html, body {
+	background-color: #BDFCC9;
+	font-family: nexa;
+}
+
+panel > fieldset {
+	background-color: lightblue;
+	-webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-before: 0.3em;
+    -webkit-padding-start: 0em;
+    -webkit-padding-end: 0em;
+    -webkit-padding-after: 0.3em;
+}
+
+panel > label {
+	font-size: 5vw;
+}
+
+panel > fieldset > div, a, p {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+img {
+	height: 5%;
+}
+
+#contact {
+	display: inline-block;
+	-webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    transform: translate(5%,-60%);
+}
