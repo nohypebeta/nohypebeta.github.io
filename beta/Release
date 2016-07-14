@@ -1,0 +1,8 @@
+Origin: NoHype Beta Test Repo
+Label: NoHype Beta Repo
+Suite: stable
+Version: 1.0
+Codename: NoHypeBeta
+Architectures: iphoneos-arm
+Components: main
+Description: NoHype Beta Repo
