@@ -1,0 +1,61 @@
+@font-face {
+	font-family: nexa;
+	src: url(nexalight.otf);
+}
+
+html, body {
+	background-color: #BDFCC9;
+	font-family: nexa;
+	background-image: url(download.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-repeat-y: inherit;
+}
+
+panel > fieldset {
+	background-color: rgba(143,216,216,0.9);
+	-webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    -webkit-padding-before: 0.3em;
+    -webkit-padding-start: 0em;
+    -webkit-padding-end: 0em;
+    -webkit-padding-after: 0.3em;
+}
+
+panel > label {
+	font-size: 5vw;
+}
+
+panel > fieldset > div, a, p {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#scsh {
+	height: 92%;
+}
+
+#img1 {
+	float: left;
+	width: 46%;
+	transform: translate(5%,0%);
+}
+
+#img2 {
+	float: right;
+	width: 46%;
+	transform: translate(-5%,0%);
+}
+
+#img3 {
+	float: left;
+	width: 46%;
+	transform: translate(5%,4%);
+}
+
+#img4 {
+	float: right;
+	width: 46%;
+	transform: translate(-5%,4%);
+}
