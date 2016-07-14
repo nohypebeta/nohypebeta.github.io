@@ -6,10 +6,14 @@
 html, body {
 	background-color: #BDFCC9;
 	font-family: nexa;
+	background-image: url(download.png);
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-repeat-y: inherit;
 }
 
 panel > fieldset {
-	background-color: lightblue;
+	background-color: rgba(143,216,216,1);
 	-webkit-margin-start: 0px;
     -webkit-margin-end: 0px;
     -webkit-padding-before: 0.3em;
